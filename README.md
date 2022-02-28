@@ -26,6 +26,9 @@ connectThePoint(hullPoint) => menyambungkan dari satu titik ke titik lain
 ## Requirement
 1. [Python 3](https://www.python.org/downloads/)
 2. [Jupyter NoteBook](https://jupyter.org/install)
+3. matplotlib
+4. pandas
+5. numpy
 
 ## Menjalankan Program
 1. Buka Folder pada Jupyter Notebook dan buka file main.ipynb
