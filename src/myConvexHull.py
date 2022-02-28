@@ -82,7 +82,7 @@ def solveRightSide(point1, point2, rightListPoint, countPointInRight):
 
 
 #Mengembalikan points yang menjadi point untuk convexHull
-def ConvexHull(listAllPoint):
+def myConvexHull(listAllPoint):
     minPoint, maxPoint = find2InitialPoint(listAllPoint)
     listHull.append(minPoint)
     listHull.append(maxPoint)
